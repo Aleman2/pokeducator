@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+  }
+.pokegallery{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: space-between;
+    margin: 10px;
+}
+.links{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.generationimg{
+    max-width: 30px;
+    max-height: 20px;
+}

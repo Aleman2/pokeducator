@@ -1,0 +1,45 @@
+
+.portada{
+  border-radius: 7px;
+  max-height: 460px ;
+}
+.quita-movimientosimg{
+  width: 300px;
+  float: right;
+  border-radius: 7px;
+}
+.pokeimg{
+  border-radius: 7px;
+}
+.invisible{
+    visibility: hidden;
+}
+.cardGuarderia{
+    margin: 15px;
+    padding: 5px;
+    box-shadow: 5px 2px 2px rgba(0, 0, 0, 0.274);
+    width: 277px;
+    height:315px;
+}
+.cardBodyGuarderia{
+    max-height: 130px;
+   
+}
+.cardImgGuarderia {
+  border-radius: 7px;
+  width: 100%;
+  max-width: 265px;
+  min-width: 265px;
+  min-height: 215px;
+  max-height: 215px;
+}
+.guarderia_imagen {
+  width: 180px;
+  height: 135px;
+  float: right;
+  border-radius: 7px;
+}
+.descripcion {
+  margin-left: 10px;
+  margin-right: 10px;
+}

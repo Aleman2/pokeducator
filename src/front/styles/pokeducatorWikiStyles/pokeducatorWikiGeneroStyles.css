@@ -1,0 +1,40 @@
+.generoimg{
+    max-width: 14px;
+    max-height: 14px;
+}
+
+.genero_imagen {
+    width: 180px;
+    height: 135px;
+    float: right;
+    border-radius: 7px;
+}
+.invisible{
+    visibility: hidden;
+}
+.cardGenero{
+    margin: 15px;
+    padding: 5px;
+    box-shadow: 5px 2px 2px rgba(0, 0, 0, 0.274);
+}
+.cardBodyGenero{
+    max-height: 130px;
+}
+.cardGenero img {
+  border-radius: 7px;
+  width: 100%;
+  min-height: 215px;
+  max-height: 215px;
+}
+.cardGenero:hover .details{
+    opacity: 1;
+    height: 100%;
+  }
+.portada{
+    border-radius: 7px;
+    max-height: 460px ;
+  }
+  .descripcion {
+    margin-left: 10px;
+    margin-right: 10px;
+  }

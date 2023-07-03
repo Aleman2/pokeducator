@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+  }
+  .tipoImg{
+    max-width: 80px;
+  }
+  .tablaTitulos{
+    font-size: 15px;
+  }
+.pokegallery{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: space-between;
+    margin: 10px;
+}
+.links{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
